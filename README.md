@@ -1,6 +1,6 @@
 # Mini Project – Probabilistic Reasoning on System Data (Part 1)
 
-ai ml mini 2 project with easy data sert
+ai ml mini 2 project with easy data set
 
 Name:Niha anjum.I
 Course:Btech IT
